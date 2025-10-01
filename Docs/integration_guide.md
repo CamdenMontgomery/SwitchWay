@@ -10,7 +10,7 @@ This guide explains how to integrate toy cars with a game or application using t
   - `0xXX 0xYY` → Car code (16-bit identifier, up to ~65,000 cars)
 - **Example:** `0xCA 0xB1 0xAB 0xCD`
 
-> ⚠️ Car codes must be **raw bytes**, not NDEF formatted.
+>  Car codes must be **raw bytes**, not NDEF formatted.
 
 ---
 
@@ -46,5 +46,6 @@ Switchway exposes its inputs as follows:
 - If the car is removed, **Axis 3 resets to `0x0000`**.
 - Multiple cars may share the same code — uniqueness is determined by the game’s mapping logic.
 - Future firmware may extend the car code structure with **versioning bytes** for backward-compatible updates.
+
 
 ---
