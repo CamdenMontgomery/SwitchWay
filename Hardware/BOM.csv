@@ -1,0 +1,13 @@
+Item,Qty,Description,Part Number/Link,Unit Price (USD),Total Price (USD),Notes
+1,1,ESP32 Dev Module,ESP32-WROOM-32,,5.00,Main microcontroller with BLE HID
+2,1,NFC Reader Module,PN532 (I2C/SPI),,8.00,Reads NFC tags on cars
+3,1,Joystick Module,Generic XY joystick,,2.00,16-bit axis input
+4,3,Tactile Push Buttons,12mm momentary switch,,1.00,For in-game actions
+5,1,Breadboard,400 tie-point,,6.00,Prototype wiring
+6,1,Battery Holder,4xAA with leads,,6.00,Powers ESP32 + PN532
+7,1,Rocker Switch,SPST mini rocker,,2.00,Power control
+8,1,Wiring Kit,DuPont jumper wires assorted,,3.00,Prototype connections
+9,1,3D Printed Frame,STL provided,,~5.00 (filament),Enclosure skeleton
+10,1,Super Glue (optional),Cyanoacrylate adhesive,,2.00,Secures joints
+11,1,Soldering Kit (tools),Not included,,~20.00,For assembly
+12,30,NFC Stickers,NTAG213 (13.56 MHz),,13.00,Programmable tags for cars
