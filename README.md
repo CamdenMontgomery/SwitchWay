@@ -1,4 +1,4 @@
-# Switchway
+# SwitchWay
 
 ![Version](https://img.shields.io/badge/version-1.0.0--beta-blue)
 
@@ -115,5 +115,6 @@ Your support helps us improve the documentation, add new features, and provide t
 ---
 
 ## License
+
 
 This project is released under the **MIT License** (see [`LICENSE`](LICENSE) for details). 
