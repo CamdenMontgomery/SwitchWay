@@ -1,7 +1,14 @@
+<img width="3756" height="1269" alt="Frame 1 (1)" src="https://github.com/user-attachments/assets/07350d5d-7ee2-46d9-a3c2-42424843691c" />
+
+
 # SwitchWay
 
 ![Version](https://img.shields.io/badge/version-1.0.0--beta-blue)
-
+![License](https://img.shields.io/github/license/CamdenMontgomery/switchway)
+![Last Commit](https://img.shields.io/github/last-commit/CamdenMontgomery/switchway)
+![Top Language](https://img.shields.io/github/languages/top/CamdenMontgomery/switchway)
+![Open Issues](https://img.shields.io/github/issues/CamdenMontgomery/switchway)
+![Open PRs](https://img.shields.io/github/issues-pr/CamdenMontgomery/switchway)
 ---
 
 ## Overview
@@ -118,3 +125,4 @@ Your support helps us improve the documentation, add new features, and provide t
 
 
 This project is released under the **MIT License** (see [`LICENSE`](LICENSE) for details). 
+
